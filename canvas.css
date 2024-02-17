@@ -1,0 +1,11 @@
+canvas
+{
+	background: rgb(255, 255, 255);
+	border: solid 1px black;
+	position: absolute; 
+    top: 0px; 
+    left: 0px; 
+    right: 0px; 
+    bottom: 100px; 
+    margin: auto; 
+}
